@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubrajSalgotra
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning GANs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me https://www.linkedin.com/in/shubraj-salgotra-a75266209/
 
 <!---
