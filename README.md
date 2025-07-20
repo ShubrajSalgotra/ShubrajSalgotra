@@ -36,6 +36,9 @@ I like turning thoughts into tools — sometimes fun, sometimes useful, often bo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubrajSalgotra&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubrajSalgotra&theme=tokyonight)
+
+
 ---
 
 ### ⚡ Fun Fact
