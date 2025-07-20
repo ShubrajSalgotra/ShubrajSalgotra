@@ -32,11 +32,13 @@ I like turning thoughts into tools — sometimes fun, sometimes useful, often bo
 <!-- GitHub stats section -->
 ### 📊 GitHub Activity
 
-![Shubraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubrajSalgotra&show_icons=true&hide=prs&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubrajSalgotra&theme=tokyonight)
+
+![Shubraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubrajSalgotra&show_icons=true&hide=prs&theme=tokyonight)    
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubrajSalgotra&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubrajSalgotra&theme=tokyonight)
+
 
 
 ---
